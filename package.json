@@ -1,0 +1,31 @@
+{
+  "name": "cglab-webgl-practicas",
+  "version": "1.0.0",
+  "description": "Proyecto para aprender WebGl 2.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paula-18/cglab-webgl-practicas.git"
+  },
+  "keywords": [
+    "webgl",
+    "games",
+    "cg",
+    "shader",
+    "glsl",
+    "2d",
+    "3d"
+  ],
+  "author": "Paula Remy Ochoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paula-18/cglab-webgl-practicas/issues"
+  },
+  "homepage": "https://github.com/Paula-18/cglab-webgl-practicas#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
