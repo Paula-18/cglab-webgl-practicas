@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
+    "start": "node app.js",
     "type": "git",
     "url": "git+https://github.com/Paula-18/cglab-webgl-practicas.git"
   },
