@@ -4,10 +4,10 @@
   "description": "Proyecto para aprender WebGl 2.0",
   "main": "server.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "start": "node app.js",
     "type": "git",
     "url": "git+https://github.com/Paula-18/cglab-webgl-practicas.git"
   },
